@@ -1,24 +1,27 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The purpose of this project is to get a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Rails
 
-* System dependencies
+## Author
 
-* Configuration
+👤 **Brenda Yucra**
 
-* Database creation
+- Github: [@bren2102](https://github.com/bren2102) 
+- Twitter: [@BrendaYucra2](https://twitter.com/BrendaYucra)
+- Linkedin: [Brenda Yucra](https://www.linkedin.com/in/brenda-yucra-51980681/)
 
-* Database initialization
+## 🤝 Contributing
 
-* How to run the test suite
+This project is for learning purposes only, we wont accept contributions, though suggestions are welcome.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## Acknowledgments
+
+- We thank microverse for this learning opportunity.
